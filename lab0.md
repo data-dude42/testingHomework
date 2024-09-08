@@ -9,7 +9,6 @@
 
    $$
 
-
 ---
 
 2. Formula for Geometric Series
@@ -22,7 +21,6 @@
 
 
    $$
-
 
 ---
 
