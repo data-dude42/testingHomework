@@ -4,11 +4,6 @@
    c = \sqrt{a^2 + b^2}
    $$
 
-   $$
-
-
-   $$
-
 ---
 
 2. Formula for Geometric Series
@@ -28,9 +23,4 @@
 
    $$
    \sum_{i=1}^{n} i = \frac{n(n+1)}{2}
-   $$
-
-   $$
-
-
    $$
