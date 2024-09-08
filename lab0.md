@@ -1,26 +1,13 @@
-1. Formula for Hypotenuse of a Right Angle Triangle
-
-   $$
-   c = \sqrt{a^2 + b^2}
-   $$
+1. hypotenuse for right angle triangle
+   $c = \sqrt{a^2 + b^2}$
 
 ---
 
-2. Formula for Geometric Series
+2. geometric series
+   $\sum_{i=0}^{n} ar^i$
 
-   $$
-   \sum_{i=0}^{n} ar^i
-   $$
-
-   $$
-
-
-   $$
 
 ---
 
-3. Formula for Arithemtic Series closed form
-
-   $$
-   \sum_{i=1}^{n} i = \frac{n(n+1)}{2}
-   $$
+3. arithmetic series closed form
+   $\sum_{i=1}^{n} i = \frac{n(n+1)}{2}$
