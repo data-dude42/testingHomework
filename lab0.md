@@ -4,8 +4,19 @@
 ---
 
 2. geometric series(i=0 to n (ar^i)):-
+
+   $$
+
+
+   $$
+
+
    $\sum_{i=0}^{n} ar^i$
 
+$$
+
+
+$$
 
 ---
 
